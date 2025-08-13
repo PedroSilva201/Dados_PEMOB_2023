@@ -47,6 +47,7 @@ Barca: Embarcação de passageiros que é utilizado para transporte em vias hidr
 Mototaxi: Serviço de taxi que utiliza moto, podendo tambem ter versão para aplicativo.
 
 Transporte Escolar: Serviço especifico para transporte de alunos, tanto da rede publica como da rede privada do municipio.
+![Imagens](imagens/627.jpg)
 
 Transporte Alternativo: Serviço especifico onde complementa a rede de transporte publico.
 
