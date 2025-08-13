@@ -58,5 +58,9 @@ Sistema Tronco-Alimentação: É um sistema misto onde possui elementos tanto do
 
 É semelhante ao do municipal, porem com algumas diferenças uma vez que a natureza do mesmo é diferente, principalmente devido as linhas e os serviços que são entre cidades de uma mesma região.
 
+Aqui no Vale do Paraiba as linhas metropolitanas são de responsabilidade da ARTESP com o processo de liquidação da EMTU inciada neste ano de 2025.
+
+![Imagens](imagens/608.jpg)
+
 ### Observação
 Repositório reutilizado de atividade extra de engenharia de sofware, feito em 2021, porém sem código dentro do certame.
