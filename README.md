@@ -32,8 +32,6 @@ Onibus de Piso Baixo: Veiculo que possui sistema de rebaixamento e uma rampa que
 
 Onibus Articulado: Veiculo que possui dosi vagões, podendo ter tres ou quatro eixos e tambem podendo ser de piso baixo ou piso normal.
 
-![Imagens](imagens/546.jpg)
-
 Onibus Biarticulado: Veiculo que possui tres vagões, podendo ter quatro eixos e poderá ser de piso baixo ou piso normal.
 
 Embarque em Nivel: Onibus que possui portas no nivel da carroceria, geralmente de piso alto, tambem poderá ser denominado de acesso em nivel.
@@ -47,7 +45,6 @@ Barca: Embarcação de passageiros que é utilizado para transporte em vias hidr
 Mototaxi: Serviço de taxi que utiliza moto, podendo tambem ter versão para aplicativo.
 
 Transporte Escolar: Serviço especifico para transporte de alunos, tanto da rede publica como da rede privada do municipio.
-![Imagens](imagens/627.jpg)
 
 Transporte Alternativo: Serviço especifico onde complementa a rede de transporte publico.
 
@@ -62,8 +59,6 @@ Sistema Tronco-Alimentação: É um sistema misto onde possui elementos tanto do
 É semelhante ao do municipal, porem com algumas diferenças uma vez que a natureza do mesmo é diferente, principalmente devido as linhas e os serviços que são entre cidades de uma mesma região.
 
 Aqui no Vale do Paraiba as linhas metropolitanas são de responsabilidade da ARTESP com o processo de liquidação da EMTU inciada neste ano de 2025.
-
-![Imagens](imagens/608.jpg)
 
 ### Observação
 Repositório reutilizado de atividade extra de engenharia de sofware, feito em 2021, porém sem código dentro do certame.
