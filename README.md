@@ -6,6 +6,8 @@ O questionário teve ao todo cerca de 415 perguntas que foram apresentadas em um
 
 As colunas corresponde aos municipios envolvidos na pesquisa daquele ano.
 
+![Image]([images/minha_imagem.png](https://github.com/PedroSilva201/Dados_PEMOB_2023/issues/2#issue-3318258731))
+
 ## Apendice
 ### Termos tecnicos relacionados aos dados apresentados
 Aqui voce verá alguns termmos tecnicos utilizados mediante ao que foi abordado no questionario, todas as fotos são de minha autoria, caso alguem queira utilizar, por favor colocar os creditos uma vez que eu tenho exclusividade sobre o mesmo.
