@@ -32,6 +32,8 @@ Onibus de Piso Baixo: Veiculo que possui sistema de rebaixamento e uma rampa que
 
 Onibus Articulado: Veiculo que possui dosi vagões, podendo ter tres ou quatro eixos e tambem podendo ser de piso baixo ou piso normal.
 
+![Imagens](imagens/546.jpg)
+
 Onibus Biarticulado: Veiculo que possui tres vagões, podendo ter quatro eixos e poderá ser de piso baixo ou piso normal.
 
 Embarque em Nivel: Onibus que possui portas no nivel da carroceria, geralmente de piso alto, tambem poderá ser denominado de acesso em nivel.
